@@ -1,6 +1,1 @@
-# About
-
-dump various DB
-
-* MySQL
-* MongoDB
+migrate to https://github.com/ShotaKitazawa/dockerfiles
